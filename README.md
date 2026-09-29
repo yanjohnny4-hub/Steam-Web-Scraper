@@ -54,3 +54,8 @@ out_path = Path(r'C:\Users\YourName\OneDrive\Downloads') / 'Steam_New_Releases.j
 
 ## Disclaimer
 This project is for personal and educational use. It is not affiliated with or endorsed by Valve. Respect Steam's Terms of Service and keep your request rate low.
+
+## Author
+
+Cai Xin (Johnny) Yan
+Built with Python
